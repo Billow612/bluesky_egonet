@@ -1,6 +1,6 @@
 # 🔗 Bluesky Ego-network Builder
 
-![Python Version](https://img.shields.io/badge/python-3.12%2B-blue) ![License](https://img.shields.io/github/license/billow612/bluesky_egonet) ![Last Updated](https://img.shields.io/github/last-commit/billow612/bluesky_egonet)
+![Python Version](https://img.shields.io/badge/python-3.12%2B-blue) ![License](https://img.shields.io/github/license/Billow612/bluesky_egonet) ![Last Updated](https://img.shields.io/github/last-commit/billow612/bluesky_egonet)
 
 ---
 
@@ -88,3 +88,4 @@ pip install httpx pandas networkx tqdm keyboard requests
 If you encounter any issues, have feature requests, or want to contribute, feel free to reach out:
 
 📧 billow0612@gmail.com
+
