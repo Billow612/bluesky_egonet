@@ -87,5 +87,4 @@ pip install httpx pandas networkx tqdm keyboard requests
 
 If you encounter any issues, have feature requests, or want to contribute, feel free to reach out:
 
-**Annie Wan**  
 📧 billow0612@gmail.com
