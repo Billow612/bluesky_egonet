@@ -14,11 +14,11 @@ Developed as part of a Master’s dissertation in Digital Humanities, this tool 
 
 ## ✨ Key Features
 
-- 🔍 Retrieve followers and following lists of any public **Bluesky account** using official **Bluesky APIs** (`getFollows`, `getFollowers`, `getRelationships`, `getProfile`)
-- 🕸️ Automatically build an **ego-network graph** of the selected user and their connections
-- 🔁 Resolve **DIDs (Decentralized Identifiers)** into readable **handle names** for easier interpretation
-- 💾 Export the full network as a `.graphml` file using `networkx` for use in tools like Gephi, Cytoscape, or Python-based graph analysis
-- 📊 Designed for **social network analysis**, **KOL detection**, and **digital humanities applications**
+- Retrieve followers and following lists of any public **Bluesky account** using official **Bluesky APIs** (`getFollows`, `getFollowers`, `getRelationships`, `getProfile`)
+- Automatically build an **ego-network graph** of the selected user and their connections
+- Resolve **DIDs (Decentralized Identifiers)** into readable **handle names** for easier interpretation
+- Export the full network as a `.graphml` file using `networkx` for use in tools like Gephi, Cytoscape, or Python-based graph analysis
+- Designed for **social network analysis**, **KOL detection**, and **digital humanities applications**
 
 ---
 
@@ -64,6 +64,11 @@ pip install httpx pandas networkx tqdm keyboard requests
 
 ---
 
+## 💻 Case Studies
+Due to GitHub’s file size limits, the full files for the three case studies are available via this link: https://drive.google.com/drive/folders/1D6KJlTrezpZF3cO6lnp-rpm5s73O8ZEC?usp=drive_link. You can also view the three Markdown interpretations in the cases folder.
+
+---
+
 ## 🙏 Acknowledgements
 
 - **APIs & Documentation**  
@@ -88,4 +93,5 @@ pip install httpx pandas networkx tqdm keyboard requests
 If you encounter any issues, have feature requests, or want to contribute, feel free to reach out:
 
 📧 billow0612@gmail.com
+
 
