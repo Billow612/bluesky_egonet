@@ -65,7 +65,7 @@ pip install httpx pandas networkx tqdm keyboard requests
 ---
 
 ## 💻 Case Studies
-Due to GitHub’s file size limits, the full files for the three case studies are available via this link: https://drive.google.com/drive/folders/1D6KJlTrezpZF3cO6lnp-rpm5s73O8ZEC?usp=drive_link. You can also view the three Markdown interpretations in the cases folder.
+Due to GitHub’s file size limits, the full files for the three case studies are available via this link: https://drive.google.com/drive/folders/1D6KJlTrezpZF3cO6lnp-rpm5s73O8ZEC?usp=drive_link. You can also view the three Markdown interpretations in the `cases` folder.
 
 ---
 
@@ -93,5 +93,6 @@ Due to GitHub’s file size limits, the full files for the three case studies ar
 If you encounter any issues, have feature requests, or want to contribute, feel free to reach out:
 
 📧 billow0612@gmail.com
+
 
 
